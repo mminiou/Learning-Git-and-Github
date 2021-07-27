@@ -1,0 +1,19 @@
+Scrabble Game Ideas
+
+Basic plan is to create a game that allows you to learn how to play scrabble and how to become a better scrabble player
+
+Level 1
+- Learn the Basics
+
+Level 2
+- Learn the two letter words
+- Two dimensional grid where you click to see if it is a valid scrabble word
+
+Level 3 
+- Learn the three letter words
+
+Level 4
+- Simulate scenarios with perpendicular words
+
+Level 5
+- Simulate scenarios with parallel words
