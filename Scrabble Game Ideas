@@ -12,9 +12,11 @@ Level 1
 Level 2
 - Learn the two letter words
 2.1- Two dimensional grid where you click to see if it is a valid scrabble word
+2.2- Random 2 letter pairs appear and you have a a time limit to say if it is a valid scrabble word or not
 
 Level 3 
 - Learn the three letter words
+3.1- Random three letter words appear and you have a a time limit to say if it is a valid scrabble word or not
 
 Level 4
 - Simulate scenarios with perpendicular words
